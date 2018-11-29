@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Screens Affect Everyone!
+
+
+
+
+
+
+
+
+Below are the generic rules of markdown. DELETE LATER!
 
 You can use the [editor on GitHub](https://github.com/SamhitaVasu/Screens/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
